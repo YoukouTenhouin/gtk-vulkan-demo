@@ -1,6 +1,6 @@
 # GTK Vulkan Demo
 
-This is my project for [SUSE Hackweek 2023](https://hackweek.opensuse.org/projects/vulkan-widget-for-gtk), a Proof-of-Concept about rendering with Vulkan inside a GTK application.
+This is my project for [SUSE Hackweek 23](https://hackweek.opensuse.org/projects/vulkan-widget-for-gtk), a Proof-of-Concept about rendering with Vulkan inside a GTK application.
 
 # Build
 
